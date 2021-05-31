@@ -1,2 +1,3 @@
 # practice
-ポートフォリオ作り直す
+tarot
+ayurveda_test
